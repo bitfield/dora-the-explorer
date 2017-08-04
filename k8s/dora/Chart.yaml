@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Dora the Explorer
+name: dora
+version: 0.1.0
